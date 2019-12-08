@@ -112,7 +112,8 @@ class MyActionListener2 implements ActionListener{
 
 ## 四、效果的实现
 
-![image](https://github.com/Renqiang022636879/Java/blob/master/renqiang.png)
+![image](https://github.com/Renqiang022636879/-/blob/master/1.PNG)
+![image](https://github.com/Renqiang022636879/-/blob/master/2.PNG)
 ## 五、实验总结   
     通过本次实验，将前四次实验融合在一起，完成了一副简陋的成品。首先，创建对象，分别是老师，学生和选课信息，之后，构造方法，利用所学知识，完成类的继承
     以及创建框架，在这次实验中，Gui框架主要是两个按钮和一个文本框，两个按钮分别代表所选课程详情以及位选的课程，在文本框中显示。
